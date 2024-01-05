@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlTypes;
 using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
@@ -28,6 +29,7 @@ namespace Contraseñas
 
         public Form2(String NombreUsuario)
         {
+            int xd = 0;
             InitializeComponent();
             NombreUser = NombreUsuario;
             lblHeader.Text = "Bienvenido " + NombreUser;
