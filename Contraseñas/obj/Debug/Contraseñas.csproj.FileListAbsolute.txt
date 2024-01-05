@@ -1,0 +1,50 @@
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\PCSolution Passwords.exe.config
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\PCSolution Passwords.exe.manifest
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\PCSolution Passwords.application
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\PCSolution Passwords.exe
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\PCSolution Passwords.pdb
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\Google.Protobuf.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\MySql.Data.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Buffers.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.IO.Pipelines.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Memory.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\ZstdNet.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\ZstdSharp.dll
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\Google.Protobuf.pdb
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\Google.Protobuf.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\MySql.Data.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Buffers.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.IO.Pipelines.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Memory.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\obj\Debug\Contraseñas.csproj.AssemblyReference.cache
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\obj\Debug\Contraseñas.csproj.SuggestedBindingRedirects.cache
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\obj\Debug\Contraseñas.Form2.resources
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\obj\Debug\Contraseñas.Properties.Resources.resources
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\obj\Debug\Contraseñas.csproj.GenerateResource.cache
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\obj\Debug\Contraseñas.csproj.CoreCompileInputs.cache
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\obj\Debug\PCSolution Passwords.exe.manifest
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\obj\Debug\PCSolution Passwords.application
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\obj\Debug\Contraseñas.csproj.CopyComplete
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\obj\Debug\PCSolution Passwords.exe
+C:\Users\perez\OneDrive\Escritorio\TRABAJO\Contrase-as\Contraseñas\obj\Debug\PCSolution Passwords.pdb

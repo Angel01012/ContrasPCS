@@ -15,18 +15,26 @@ namespace Contraseñas
         public Form1()
         {
             InitializeComponent();
+            string usuario = txtUsuario.Text;
+            Form Menu = new Form2(usuario);
+            Menu.ShowDialog();
         }
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Usuario: "+txtUsuario.Text + " \nContra: " + txtContra.Text);
+            //MessageBox.Show("Usuario: "+txtUsuario.Text + " \nContra: " + txtContra.Text);
             string usuario = txtUsuario.Text;
             Form Menu = new Form2(usuario);
-            this.Hide();
+            //this.Hide();
             Menu.ShowDialog();
 
             // Una vez que Form2 se haya cerrado, mostrar Form1 nuevamente
-            this.Show();
+            //this.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

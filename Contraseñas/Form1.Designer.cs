@@ -38,41 +38,46 @@
             // lblUsuario
             // 
             this.lblUsuario.AutoSize = true;
-            this.lblUsuario.Location = new System.Drawing.Point(34, 59);
+            this.lblUsuario.Location = new System.Drawing.Point(51, 91);
+            this.lblUsuario.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblUsuario.Name = "lblUsuario";
-            this.lblUsuario.Size = new System.Drawing.Size(43, 13);
+            this.lblUsuario.Size = new System.Drawing.Size(64, 20);
             this.lblUsuario.TabIndex = 0;
             this.lblUsuario.Text = "Usuario";
             // 
             // lblContra
             // 
             this.lblContra.AutoSize = true;
-            this.lblContra.Location = new System.Drawing.Point(37, 88);
+            this.lblContra.Location = new System.Drawing.Point(56, 135);
+            this.lblContra.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblContra.Name = "lblContra";
-            this.lblContra.Size = new System.Drawing.Size(38, 13);
+            this.lblContra.Size = new System.Drawing.Size(57, 20);
             this.lblContra.TabIndex = 1;
             this.lblContra.Text = "Contra";
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(84, 59);
+            this.txtUsuario.Location = new System.Drawing.Point(126, 91);
+            this.txtUsuario.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(100, 20);
+            this.txtUsuario.Size = new System.Drawing.Size(148, 26);
             this.txtUsuario.TabIndex = 2;
             // 
             // txtContra
             // 
-            this.txtContra.Location = new System.Drawing.Point(84, 85);
+            this.txtContra.Location = new System.Drawing.Point(126, 131);
+            this.txtContra.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtContra.Name = "txtContra";
             this.txtContra.PasswordChar = '*';
-            this.txtContra.Size = new System.Drawing.Size(100, 20);
+            this.txtContra.Size = new System.Drawing.Size(148, 26);
             this.txtContra.TabIndex = 3;
             // 
             // btnIniciar
             // 
-            this.btnIniciar.Location = new System.Drawing.Point(98, 126);
+            this.btnIniciar.Location = new System.Drawing.Point(147, 194);
+            this.btnIniciar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnIniciar.Name = "btnIniciar";
-            this.btnIniciar.Size = new System.Drawing.Size(75, 23);
+            this.btnIniciar.Size = new System.Drawing.Size(112, 35);
             this.btnIniciar.TabIndex = 4;
             this.btnIniciar.Text = "Iniciar";
             this.btnIniciar.UseVisualStyleBackColor = true;
@@ -80,16 +85,18 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(329, 194);
+            this.ClientSize = new System.Drawing.Size(494, 298);
             this.Controls.Add(this.btnIniciar);
             this.Controls.Add(this.txtContra);
             this.Controls.Add(this.txtUsuario);
             this.Controls.Add(this.lblContra);
             this.Controls.Add(this.lblUsuario);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.Text = "Inicio";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
